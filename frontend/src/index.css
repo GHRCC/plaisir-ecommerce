@@ -1,0 +1,13 @@
+#navbar {
+    background-color: #f6aae5;
+}
+
+#container {
+    display: flex;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+}
+
